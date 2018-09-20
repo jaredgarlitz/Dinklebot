@@ -1,0 +1,10 @@
+{
+  "Keys": [
+    {
+      "Name": "BungieNet",
+      "ApiKey": "764ae48ec8cb47228dccfb56224cceb1",
+      "OAuthUrl": "https://www.bungie.net/en/OAuth/Authorize",
+      "Client_id": 24188
+    }
+  ]
+}
